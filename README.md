@@ -1,3 +1,5 @@
+Jetcoin is a fork of BTC
+
 Bitcoin Core integration/staging tree
 =====================================
 
